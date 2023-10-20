@@ -4,8 +4,6 @@ Any WebView is OK!
 
 ### Feature
 
-**THIS IS AN EXPERIMENTAL BRANCH, IT IS PROBABLY UNSTABLE.**
-
 It tries to detect all system webviews and add them to the developer options -> WebView implementation list.
 
 ![preview](https://raw.githubusercontent.com/neoblackxt/AnyWebView/master/.github/webviews.jpg)
