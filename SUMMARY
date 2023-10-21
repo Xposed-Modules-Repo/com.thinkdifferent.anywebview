@@ -1,1 +1,1 @@
-Set Bromite System WebView, Android System WebView stable/beta/canary, Chrome stable/beta/canary to be system WebView implementation without installing them as system apps.
+It tries to detect all system webviews and add them to the developer options -> WebView implementation list.
